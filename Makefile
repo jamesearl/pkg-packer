@@ -1,5 +1,5 @@
 NAME=packer
-VERSION=1.5.5
+VERSION=1.5.6
 REVISION=1
 PACKER_VERSION=$(VERSION)
 MAINT=james.earl.3@gmail.com
