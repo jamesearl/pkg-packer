@@ -1,4 +1,4 @@
-# Packer
+# Package Packer
 
 This generates an apt package for Hashicorp's [packer](https://www.packer.io). It does not configure it.
 
